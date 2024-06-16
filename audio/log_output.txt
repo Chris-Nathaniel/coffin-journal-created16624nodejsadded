@@ -1,0 +1,780 @@
+log output
+Index: 0
+Content: argv1: this is a test sentence only use for development purposes.
+-----------------
+log output
+Index: 1
+Content: 
+-----------------
+log output
+Index: 2
+Content: this content may change in the future.
+-----------------
+log output
+Index: 3
+Content: argv2: 7
+-----------------
+log output
+Index: 4
+Content: the length: 3
+-----------------
+log output
+Index: 5
+Content: Audio stream saved successfully.
+-----------------
+log output
+Index: 0
+Content: argv1: this is a test sentence only use for development purposes.
+-----------------
+log output
+Index: 1
+Content: 
+-----------------
+log output
+Index: 2
+Content: this content may change in the future.
+-----------------
+log output
+Index: 0
+Content: argv1: this is a test sentence only use for development purposes.
+-----------------
+log output
+Index: 1
+Content: 
+-----------------
+log output
+Index: 2
+Content: this content may change in the future.
+-----------------
+log output
+Index: 0
+Content: argv1: this is a test sentence only use for development purposes.
+-----------------
+log output
+Index: 1
+Content: 
+-----------------
+log output
+Index: 2
+Content: this content may change in the future.
+-----------------
+log output
+Index: 0
+Content: argv1: this is a test sentence only use for development purposes.
+-----------------
+log output
+Index: 1
+Content: 
+-----------------
+log output
+Index: 2
+Content: this content may change in the future.
+-----------------
+log output
+Index: 0
+Content: argv1:
+-----------------
+log output
+Index: 1
+Content: The Koodathayi murder case is a chilling tale that unfolded in the serene town of Koodathayi, nestled in the verdant landscapes of Kerala, India. It was a story that gripped the entire nation with its web of mystery, betrayal, and tragic loss.
+-----------------
+log output
+Index: 2
+Content: 
+-----------------
+log output
+Index: 3
+Content: The protagonist of this story was Jolly Joseph, a seemingly ordinary woman whose facade concealed a dark and sinister truth. Jolly was once viewed as a devoted wife and mother, respected within her community. However, beneath her composed exterior lurked a calculating mind driven by ambition and deceit.
+-----------------
+log output
+Index: 4
+Content: 
+-----------------
+log output
+Index: 5
+Content: The drama began to unravel when suspicions arose surrounding a series of deaths within Jolly's own family. It started with the demise of her husband, Roy Thomas, in 2011. Initially thought to be from natural causes, doubts soon surfaced, especially after a similar fate befell other members of the family.
+-----------------
+log output
+Index: 6
+Content: 
+-----------------
+log output
+Index: 7
+Content: The investigation widened to include the deaths of Jolly's former mother-in-law, Annamma Thomas, and two other relatives. Each death was attributed to cyanide poisoning, a method that raised immediate red flags about the possibility of foul play.
+-----------------
+log output
+Index: 8
+Content: 
+-----------------
+log output
+Index: 9
+Content: As investigators delved deeper, they unearthed a troubling pattern. Jolly had been present or closely connected to each of the victims prior to their deaths. Her behavior, which had once seemed normal, now appeared calculated and suspicious. Questions emerged about her role in these tragic incidents.
+-----------------
+log output
+Index: 10
+Content: 
+-----------------
+log output
+Index: 11
+Content: What made the case even more perplexing was Jolly's audacity. She had deceived her victims and those around her with meticulous planning, even forging documents and fabricating stories to sustain her façade of innocence. The intricate web of deceit began to unravel when her former husband's family raised concerns and sought a closer examination of the circumstances surrounding his death.
+-----------------
+log output
+Index: 12
+Content: 
+-----------------
+log output
+Index: 13
+Content: The fallout was swift and extensive. Jolly was arrested and faced charges related to multiple murders, shocking the community she once belonged to. Her trial was widely covered by the media, painting a portrait of a woman driven by personal gain and capable of heinous acts.
+-----------------
+log output
+Index: 14
+Content: 
+-----------------
+log output
+Index: 15
+Content: The Koodathayi murder case serves as a stark reminder of the depths of human deception and the devastating impact of betrayal within the confines of family. It is a cautionary tale that forces us to confront the darkness that can reside within seemingly ordinary lives, leaving an indelible mark on those who witnessed its unfolding.
+-----------------
+log output
+Index: 0
+Content: argv1: this is a test sentence only use for development purposes.
+-----------------
+log output
+Index: 1
+Content: 
+-----------------
+log output
+Index: 2
+Content: this content may change in the future.
+-----------------
+log output
+Index: 0
+Content: argv1: this is a test sentence only use for development purposes.
+-----------------
+log output
+Index: 1
+Content: 
+-----------------
+log output
+Index: 2
+Content: this content may change in the future.
+-----------------
+log output
+Index: 3
+Content: argv2: 7
+-----------------
+log output
+Index: 4
+Content: the length: 3
+-----------------
+log output
+Index: 5
+Content: Audio stream saved successfully.
+-----------------
+log output
+Index: 0
+Content: argv1:
+-----------------
+log output
+Index: 1
+Content: The Koodathayi murder case is a chilling tale that unfolded in the serene town of Koodathayi, nestled in the verdant landscapes of Kerala, India. It was a story that gripped the entire nation with its web of mystery, betrayal, and tragic loss.
+-----------------
+log output
+Index: 2
+Content: 
+-----------------
+log output
+Index: 3
+Content: The protagonist of this story was Jolly Joseph, a seemingly ordinary woman whose facade concealed a dark and sinister truth. Jolly was once viewed as a devoted wife and mother, respected within her community. However, beneath her composed exterior lurked a calculating mind driven by ambition and deceit.
+-----------------
+log output
+Index: 4
+Content: 
+-----------------
+log output
+Index: 5
+Content: The drama began to unravel when suspicions arose surrounding a series of deaths within Jolly's own family. It started with the demise of her husband, Roy Thomas, in 2011. Initially thought to be from natural causes, doubts soon surfaced, especially after a similar fate befell other members of the family.
+-----------------
+log output
+Index: 6
+Content: 
+-----------------
+log output
+Index: 7
+Content: The investigation widened to include the deaths of Jolly's former mother-in-law, Annamma Thomas, and two other relatives. Each death was attributed to cyanide poisoning, a method that raised immediate red flags about the possibility of foul play.
+-----------------
+log output
+Index: 8
+Content: 
+-----------------
+log output
+Index: 9
+Content: As investigators delved deeper, they unearthed a troubling pattern. Jolly had been present or closely connected to each of the victims prior to their deaths. Her behavior, which had once seemed normal, now appeared calculated and suspicious. Questions emerged about her role in these tragic incidents.
+-----------------
+log output
+Index: 10
+Content: 
+-----------------
+log output
+Index: 11
+Content: What made the case even more perplexing was Jolly's audacity. She had deceived her victims and those around her with meticulous planning, even forging documents and fabricating stories to sustain her façade of innocence. The intricate web of deceit began to unravel when her former husband's family raised concerns and sought a closer examination of the circumstances surrounding his death.
+-----------------
+log output
+Index: 12
+Content: 
+-----------------
+log output
+Index: 13
+Content: The fallout was swift and extensive. Jolly was arrested and faced charges related to multiple murders, shocking the community she once belonged to. Her trial was widely covered by the media, painting a portrait of a woman driven by personal gain and capable of heinous acts.
+-----------------
+log output
+Index: 14
+Content: 
+-----------------
+log output
+Index: 15
+Content: The Koodathayi murder case serves as a stark reminder of the depths of human deception and the devastating impact of betrayal within the confines of family. It is a cautionary tale that forces us to confront the darkness that can reside within seemingly ordinary lives, leaving an indelible mark on those who witnessed its unfolding.
+-----------------
+log output
+Index: 16
+Content: argv2: 1
+-----------------
+log output
+Index: 17
+Content: the length: 3
+-----------------
+log output
+Index: 18
+Content: {"detail":{"status":"quota_exceeded","message":"This request exceeds your quota. You have 140 characters remaining, while 2426 characters are required for this request.","character_used":12286,"character_limit":10000}}
+-----------------
+log output
+Index: 0
+Content: argv1:
+-----------------
+log output
+Index: 1
+Content: The Koodathayi murder case is a chilling tale that unfolded in the serene town of Koodathayi, nestled in the verdant landscapes of Kerala, India. It was a story that gripped the entire nation with its web of mystery, betrayal, and tragic loss.
+-----------------
+log output
+Index: 2
+Content: 
+-----------------
+log output
+Index: 3
+Content: The protagonist of this story was Jolly Joseph, a seemingly ordinary woman whose facade concealed a dark and sinister truth. Jolly was once viewed as a devoted wife and mother, respected within her community. However, beneath her composed exterior lurked a calculating mind driven by ambition and deceit.
+-----------------
+log output
+Index: 4
+Content: 
+-----------------
+log output
+Index: 5
+Content: The drama began to unravel when suspicions arose surrounding a series of deaths within Jolly's own family. It started with the demise of her husband, Roy Thomas, in 2011. Initially thought to be from natural causes, doubts soon surfaced, especially after a similar fate befell other members of the family.
+-----------------
+log output
+Index: 6
+Content: 
+-----------------
+log output
+Index: 7
+Content: The investigation widened to include the deaths of Jolly's former mother-in-law, Annamma Thomas, and two other relatives. Each death was attributed to cyanide poisoning, a method that raised immediate red flags about the possibility of foul play.
+-----------------
+log output
+Index: 8
+Content: 
+-----------------
+log output
+Index: 9
+Content: As investigators delved deeper, they unearthed a troubling pattern. Jolly had been present or closely connected to each of the victims prior to their deaths. Her behavior, which had once seemed normal, now appeared calculated and suspicious. Questions emerged about her role in these tragic incidents.
+-----------------
+log output
+Index: 10
+Content: 
+-----------------
+log output
+Index: 11
+Content: What made the case even more perplexing was Jolly's audacity. She had deceived her victims and those around her with meticulous planning, even forging documents and fabricating stories to sustain her façade of innocence. The intricate web of deceit began to unravel when her former husband's family raised concerns and sought a closer examination of the circumstances surrounding his death.
+-----------------
+log output
+Index: 12
+Content: 
+-----------------
+log output
+Index: 13
+Content: The fallout was swift and extensive. Jolly was arrested and faced charges related to multiple murders, shocking the community she once belonged to. Her trial was widely covered by the media, painting a portrait of a woman driven by personal gain and capable of heinous acts.
+-----------------
+log output
+Index: 14
+Content: 
+-----------------
+log output
+Index: 15
+Content: The Koodathayi murder case serves as a stark reminder of the depths of human deception and the devastating impact of betrayal within the confines of family. It is a cautionary tale that forces us to confront the darkness that can reside within seemingly ordinary lives, leaving an indelible mark on those who witnessed its unfolding.
+-----------------
+log output
+Index: 16
+Content: argv2: 1
+-----------------
+log output
+Index: 17
+Content: the length: 3
+-----------------
+log output
+Index: 18
+Content: {"detail":{"status":"quota_exceeded","message":"This request exceeds your quota. You have 140 characters remaining, while 2426 characters are required for this request.","character_used":12286,"character_limit":10000}}
+-----------------
+log output
+Index: 0
+Content: argv1:
+-----------------
+log output
+Index: 1
+Content: The Koodathayi murder case is a chilling tale that unfolded in the serene town of Koodathayi, nestled in the verdant landscapes of Kerala, India. It was a story that gripped the entire nation with its web of mystery, betrayal, and tragic loss.
+-----------------
+log output
+Index: 2
+Content: 
+-----------------
+log output
+Index: 3
+Content: The protagonist of this story was Jolly Joseph, a seemingly ordinary woman whose facade concealed a dark and sinister truth. Jolly was once viewed as a devoted wife and mother, respected within her community. However, beneath her composed exterior lurked a calculating mind driven by ambition and deceit.
+-----------------
+log output
+Index: 4
+Content: 
+-----------------
+log output
+Index: 5
+Content: The drama began to unravel when suspicions arose surrounding a series of deaths within Jolly's own family. It started with the demise of her husband, Roy Thomas, in 2011. Initially thought to be from natural causes, doubts soon surfaced, especially after a similar fate befell other members of the family.
+-----------------
+log output
+Index: 6
+Content: 
+-----------------
+log output
+Index: 7
+Content: The investigation widened to include the deaths of Jolly's former mother-in-law, Annamma Thomas, and two other relatives. Each death was attributed to cyanide poisoning, a method that raised immediate red flags about the possibility of foul play.
+-----------------
+log output
+Index: 8
+Content: 
+-----------------
+log output
+Index: 9
+Content: As investigators delved deeper, they unearthed a troubling pattern. Jolly had been present or closely connected to each of the victims prior to their deaths. Her behavior, which had once seemed normal, now appeared calculated and suspicious. Questions emerged about her role in these tragic incidents.
+-----------------
+log output
+Index: 10
+Content: 
+-----------------
+log output
+Index: 11
+Content: What made the case even more perplexing was Jolly's audacity. She had deceived her victims and those around her with meticulous planning, even forging documents and fabricating stories to sustain her façade of innocence. The intricate web of deceit began to unravel when her former husband's family raised concerns and sought a closer examination of the circumstances surrounding his death.
+-----------------
+log output
+Index: 12
+Content: 
+-----------------
+log output
+Index: 13
+Content: The fallout was swift and extensive. Jolly was arrested and faced charges related to multiple murders, shocking the community she once belonged to. Her trial was widely covered by the media, painting a portrait of a woman driven by personal gain and capable of heinous acts.
+-----------------
+log output
+Index: 14
+Content: 
+-----------------
+log output
+Index: 15
+Content: The Koodathayi murder case serves as a stark reminder of the depths of human deception and the devastating impact of betrayal within the confines of family. It is a cautionary tale that forces us to confront the darkness that can reside within seemingly ordinary lives, leaving an indelible mark on those who witnessed its unfolding.
+-----------------
+log output
+Index: 16
+Content: argv2: 1
+-----------------
+log output
+Index: 17
+Content: the length: 3
+-----------------
+log output
+Index: 18
+Content: {"detail":{"status":"quota_exceeded","message":"This request exceeds your quota. You have 140 characters remaining, while 2426 characters are required for this request.","character_used":12286,"character_limit":10000}}
+-----------------
+log output
+Index: 0
+Content: argv1:
+-----------------
+log output
+Index: 1
+Content: The Koodathayi murder case is a chilling tale that unfolded in the serene town of Koodathayi, nestled in the verdant landscapes of Kerala, India. It was a story that gripped the entire nation with its web of mystery, betrayal, and tragic loss.
+-----------------
+log output
+Index: 2
+Content: 
+-----------------
+log output
+Index: 3
+Content: The protagonist of this story was Jolly Joseph, a seemingly ordinary woman whose facade concealed a dark and sinister truth. Jolly was once viewed as a devoted wife and mother, respected within her community. However, beneath her composed exterior lurked a calculating mind driven by ambition and deceit.
+-----------------
+log output
+Index: 4
+Content: 
+-----------------
+log output
+Index: 5
+Content: The drama began to unravel when suspicions arose surrounding a series of deaths within Jolly's own family. It started with the demise of her husband, Roy Thomas, in 2011. Initially thought to be from natural causes, doubts soon surfaced, especially after a similar fate befell other members of the family.
+-----------------
+log output
+Index: 6
+Content: 
+-----------------
+log output
+Index: 7
+Content: The investigation widened to include the deaths of Jolly's former mother-in-law, Annamma Thomas, and two other relatives. Each death was attributed to cyanide poisoning, a method that raised immediate red flags about the possibility of foul play.
+-----------------
+log output
+Index: 8
+Content: 
+-----------------
+log output
+Index: 9
+Content: As investigators delved deeper, they unearthed a troubling pattern. Jolly had been present or closely connected to each of the victims prior to their deaths. Her behavior, which had once seemed normal, now appeared calculated and suspicious. Questions emerged about her role in these tragic incidents.
+-----------------
+log output
+Index: 10
+Content: 
+-----------------
+log output
+Index: 11
+Content: What made the case even more perplexing was Jolly's audacity. She had deceived her victims and those around her with meticulous planning, even forging documents and fabricating stories to sustain her façade of innocence. The intricate web of deceit began to unravel when her former husband's family raised concerns and sought a closer examination of the circumstances surrounding his death.
+-----------------
+log output
+Index: 12
+Content: 
+-----------------
+log output
+Index: 13
+Content: The fallout was swift and extensive. Jolly was arrested and faced charges related to multiple murders, shocking the community she once belonged to. Her trial was widely covered by the media, painting a portrait of a woman driven by personal gain and capable of heinous acts.
+-----------------
+log output
+Index: 14
+Content: 
+-----------------
+log output
+Index: 15
+Content: The Koodathayi murder case serves as a stark reminder of the depths of human deception and the devastating impact of betrayal within the confines of family. It is a cautionary tale that forces us to confront the darkness that can reside within seemingly ordinary lives, leaving an indelible mark on those who witnessed its unfolding.
+-----------------
+log output
+Index: 16
+Content: argv2: 1
+-----------------
+log output
+Index: 17
+Content: the length: 3
+-----------------
+log output
+Index: 18
+Content: {"detail":{"status":"quota_exceeded","message":"This request exceeds your quota. You have 140 characters remaining, while 2426 characters are required for this request.","character_used":12286,"character_limit":10000}}
+-----------------
+log output
+Index: 0
+Content: argv1:
+-----------------
+log output
+Index: 1
+Content: The Koodathayi murder case is a chilling tale that unfolded in the serene town of Koodathayi, nestled in the verdant landscapes of Kerala, India. It was a story that gripped the entire nation with its web of mystery, betrayal, and tragic loss.
+-----------------
+log output
+Index: 2
+Content: 
+-----------------
+log output
+Index: 3
+Content: The protagonist of this story was Jolly Joseph, a seemingly ordinary woman whose facade concealed a dark and sinister truth. Jolly was once viewed as a devoted wife and mother, respected within her community. However, beneath her composed exterior lurked a calculating mind driven by ambition and deceit.
+-----------------
+log output
+Index: 4
+Content: 
+-----------------
+log output
+Index: 5
+Content: The drama began to unravel when suspicions arose surrounding a series of deaths within Jolly's own family. It started with the demise of her husband, Roy Thomas, in 2011. Initially thought to be from natural causes, doubts soon surfaced, especially after a similar fate befell other members of the family.
+-----------------
+log output
+Index: 6
+Content: 
+-----------------
+log output
+Index: 7
+Content: The investigation widened to include the deaths of Jolly's former mother-in-law, Annamma Thomas, and two other relatives. Each death was attributed to cyanide poisoning, a method that raised immediate red flags about the possibility of foul play.
+-----------------
+log output
+Index: 8
+Content: 
+-----------------
+log output
+Index: 9
+Content: As investigators delved deeper, they unearthed a troubling pattern. Jolly had been present or closely connected to each of the victims prior to their deaths. Her behavior, which had once seemed normal, now appeared calculated and suspicious. Questions emerged about her role in these tragic incidents.
+-----------------
+log output
+Index: 10
+Content: 
+-----------------
+log output
+Index: 11
+Content: What made the case even more perplexing was Jolly's audacity. She had deceived her victims and those around her with meticulous planning, even forging documents and fabricating stories to sustain her façade of innocence. The intricate web of deceit began to unravel when her former husband's family raised concerns and sought a closer examination of the circumstances surrounding his death.
+-----------------
+log output
+Index: 12
+Content: 
+-----------------
+log output
+Index: 13
+Content: The fallout was swift and extensive. Jolly was arrested and faced charges related to multiple murders, shocking the community she once belonged to. Her trial was widely covered by the media, painting a portrait of a woman driven by personal gain and capable of heinous acts.
+-----------------
+log output
+Index: 14
+Content: 
+-----------------
+log output
+Index: 15
+Content: The Koodathayi murder case serves as a stark reminder of the depths of human deception and the devastating impact of betrayal within the confines of family. It is a cautionary tale that forces us to confront the darkness that can reside within seemingly ordinary lives, leaving an indelible mark on those who witnessed its unfolding.
+-----------------
+log output
+Index: 16
+Content: argv2: 1
+-----------------
+log output
+Index: 17
+Content: the length: 3
+-----------------
+log output
+Index: 18
+Content: {"detail":{"status":"quota_exceeded","message":"This request exceeds your quota. You have 140 characters remaining, while 2426 characters are required for this request.","character_used":12286,"character_limit":10000}}
+-----------------
+log output
+Index: 0
+Content: argv1:
+-----------------
+log output
+Index: 1
+Content: The Koodathayi murder case is a chilling tale that unfolded in the serene town of Koodathayi, nestled in the verdant landscapes of Kerala, India. It was a story that gripped the entire nation with its web of mystery, betrayal, and tragic loss.
+-----------------
+log output
+Index: 2
+Content: 
+-----------------
+log output
+Index: 3
+Content: The protagonist of this story was Jolly Joseph, a seemingly ordinary woman whose facade concealed a dark and sinister truth. Jolly was once viewed as a devoted wife and mother, respected within her community. However, beneath her composed exterior lurked a calculating mind driven by ambition and deceit.
+-----------------
+log output
+Index: 4
+Content: 
+-----------------
+log output
+Index: 5
+Content: The drama began to unravel when suspicions arose surrounding a series of deaths within Jolly's own family. It started with the demise of her husband, Roy Thomas, in 2011. Initially thought to be from natural causes, doubts soon surfaced, especially after a similar fate befell other members of the family.
+-----------------
+log output
+Index: 6
+Content: 
+-----------------
+log output
+Index: 7
+Content: The investigation widened to include the deaths of Jolly's former mother-in-law, Annamma Thomas, and two other relatives. Each death was attributed to cyanide poisoning, a method that raised immediate red flags about the possibility of foul play.
+-----------------
+log output
+Index: 8
+Content: 
+-----------------
+log output
+Index: 9
+Content: As investigators delved deeper, they unearthed a troubling pattern. Jolly had been present or closely connected to each of the victims prior to their deaths. Her behavior, which had once seemed normal, now appeared calculated and suspicious. Questions emerged about her role in these tragic incidents.
+-----------------
+log output
+Index: 10
+Content: 
+-----------------
+log output
+Index: 11
+Content: What made the case even more perplexing was Jolly's audacity. She had deceived her victims and those around her with meticulous planning, even forging documents and fabricating stories to sustain her façade of innocence. The intricate web of deceit began to unravel when her former husband's family raised concerns and sought a closer examination of the circumstances surrounding his death.
+-----------------
+log output
+Index: 12
+Content: 
+-----------------
+log output
+Index: 13
+Content: The fallout was swift and extensive. Jolly was arrested and faced charges related to multiple murders, shocking the community she once belonged to. Her trial was widely covered by the media, painting a portrait of a woman driven by personal gain and capable of heinous acts.
+-----------------
+log output
+Index: 14
+Content: 
+-----------------
+log output
+Index: 15
+Content: The Koodathayi murder case serves as a stark reminder of the depths of human deception and the devastating impact of betrayal within the confines of family. It is a cautionary tale that forces us to confront the darkness that can reside within seemingly ordinary lives, leaving an indelible mark on those who witnessed its unfolding.
+-----------------
+log output
+Index: 16
+Content: argv2: 1
+-----------------
+log output
+Index: 17
+Content: the length: 3
+-----------------
+log output
+Index: 18
+Content: {"detail":{"status":"quota_exceeded","message":"This request exceeds your quota. You have 140 characters remaining, while 2426 characters are required for this request.","character_used":12286,"character_limit":10000}}
+-----------------
+log output
+Index: 0
+Content: argv1:
+-----------------
+log output
+Index: 1
+Content: The Koodathayi murder case is a chilling tale that unfolded in the serene town of Koodathayi, nestled in the verdant landscapes of Kerala, India. It was a story that gripped the entire nation with its web of mystery, betrayal, and tragic loss.
+-----------------
+log output
+Index: 2
+Content: 
+-----------------
+log output
+Index: 3
+Content: The protagonist of this story was Jolly Joseph, a seemingly ordinary woman whose facade concealed a dark and sinister truth. Jolly was once viewed as a devoted wife and mother, respected within her community. However, beneath her composed exterior lurked a calculating mind driven by ambition and deceit.
+-----------------
+log output
+Index: 4
+Content: 
+-----------------
+log output
+Index: 5
+Content: The drama began to unravel when suspicions arose surrounding a series of deaths within Jolly's own family. It started with the demise of her husband, Roy Thomas, in 2011. Initially thought to be from natural causes, doubts soon surfaced, especially after a similar fate befell other members of the family.
+-----------------
+log output
+Index: 6
+Content: 
+-----------------
+log output
+Index: 7
+Content: The investigation widened to include the deaths of Jolly's former mother-in-law, Annamma Thomas, and two other relatives. Each death was attributed to cyanide poisoning, a method that raised immediate red flags about the possibility of foul play.
+-----------------
+log output
+Index: 8
+Content: 
+-----------------
+log output
+Index: 9
+Content: As investigators delved deeper, they unearthed a troubling pattern. Jolly had been present or closely connected to each of the victims prior to their deaths. Her behavior, which had once seemed normal, now appeared calculated and suspicious. Questions emerged about her role in these tragic incidents.
+-----------------
+log output
+Index: 10
+Content: 
+-----------------
+log output
+Index: 11
+Content: What made the case even more perplexing was Jolly's audacity. She had deceived her victims and those around her with meticulous planning, even forging documents and fabricating stories to sustain her façade of innocence. The intricate web of deceit began to unravel when her former husband's family raised concerns and sought a closer examination of the circumstances surrounding his death.
+-----------------
+log output
+Index: 12
+Content: 
+-----------------
+log output
+Index: 13
+Content: The fallout was swift and extensive. Jolly was arrested and faced charges related to multiple murders, shocking the community she once belonged to. Her trial was widely covered by the media, painting a portrait of a woman driven by personal gain and capable of heinous acts.
+-----------------
+log output
+Index: 14
+Content: 
+-----------------
+log output
+Index: 15
+Content: The Koodathayi murder case serves as a stark reminder of the depths of human deception and the devastating impact of betrayal within the confines of family. It is a cautionary tale that forces us to confront the darkness that can reside within seemingly ordinary lives, leaving an indelible mark on those who witnessed its unfolding.
+-----------------
+log output
+Index: 16
+Content: argv2: 1
+-----------------
+log output
+Index: 17
+Content: the length: 3
+-----------------
+log output
+Index: 18
+Content: {"detail":{"status":"quota_exceeded","message":"This request exceeds your quota. You have 140 characters remaining, while 2426 characters are required for this request.","character_used":12286,"character_limit":10000}}
+-----------------
+log output
+Index: 0
+Content: argv1:
+-----------------
+log output
+Index: 1
+Content: The Koodathayi murder case is a chilling tale that unfolded in the serene town of Koodathayi, nestled in the verdant landscapes of Kerala, India. It was a story that gripped the entire nation with its web of mystery, betrayal, and tragic loss.
+-----------------
+log output
+Index: 2
+Content: 
+-----------------
+log output
+Index: 3
+Content: The protagonist of this story was Jolly Joseph, a seemingly ordinary woman whose facade concealed a dark and sinister truth. Jolly was once viewed as a devoted wife and mother, respected within her community. However, beneath her composed exterior lurked a calculating mind driven by ambition and deceit.
+-----------------
+log output
+Index: 4
+Content: 
+-----------------
+log output
+Index: 5
+Content: The drama began to unravel when suspicions arose surrounding a series of deaths within Jolly's own family. It started with the demise of her husband, Roy Thomas, in 2011. Initially thought to be from natural causes, doubts soon surfaced, especially after a similar fate befell other members of the family.
+-----------------
+log output
+Index: 6
+Content: 
+-----------------
+log output
+Index: 7
+Content: The investigation widened to include the deaths of Jolly's former mother-in-law, Annamma Thomas, and two other relatives. Each death was attributed to cyanide poisoning, a method that raised immediate red flags about the possibility of foul play.
+-----------------
+log output
+Index: 8
+Content: 
+-----------------
+log output
+Index: 9
+Content: As investigators delved deeper, they unearthed a troubling pattern. Jolly had been present or closely connected to each of the victims prior to their deaths. Her behavior, which had once seemed normal, now appeared calculated and suspicious. Questions emerged about her role in these tragic incidents.
+-----------------
+log output
+Index: 10
+Content: 
+-----------------
+log output
+Index: 11
+Content: What made the case even more perplexing was Jolly's audacity. She had deceived her victims and those around her with meticulous planning, even forging documents and fabricating stories to sustain her façade of innocence. The intricate web of deceit began to unravel when her former husband's family raised concerns and sought a closer examination of the circumstances surrounding his death.
+-----------------
+log output
+Index: 12
+Content: 
+-----------------
+log output
+Index: 13
+Content: The fallout was swift and extensive. Jolly was arrested and faced charges related to multiple murders, shocking the community she once belonged to. Her trial was widely covered by the media, painting a portrait of a woman driven by personal gain and capable of heinous acts.
+-----------------
+log output
+Index: 14
+Content: 
+-----------------
+log output
+Index: 15
+Content: The Koodathayi murder case serves as a stark reminder of the depths of human deception and the devastating impact of betrayal within the confines of family. It is a cautionary tale that forces us to confront the darkness that can reside within seemingly ordinary lives, leaving an indelible mark on those who witnessed its unfolding.
+-----------------
+log output
+Index: 16
+Content: argv2: 1
+-----------------
+log output
+Index: 17
+Content: the length: 3
+-----------------
+log output
+Index: 18
+Content: {"detail":{"status":"quota_exceeded","message":"This request exceeds your quota. You have 140 characters remaining, while 2426 characters are required for this request.","character_used":12286,"character_limit":10000}}
+-----------------
